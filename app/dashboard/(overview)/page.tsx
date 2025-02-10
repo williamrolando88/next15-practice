@@ -5,7 +5,6 @@ import {
   RevenueChartSkeleton,
 } from "@/app/ui/skeletons";
 import { Suspense } from "react";
-import { fetchCardData } from "../../lib/data";
 import CardWrapper from "../../ui/dashboard/cards";
 import LatestInvoices from "../../ui/dashboard/latest-invoices";
 import RevenueChart from "../../ui/dashboard/revenue-chart";
